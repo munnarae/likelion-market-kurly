@@ -26,6 +26,10 @@ npm run all
 
 <br>
 
+## I's Gallary 프로젝트의 구성원
+
+|[이현우(hyunwlee-dev)(https://github.com/hyunwlee-dev)|[정진이(luvdo0112)](https://github.com/luvdo0112)|[이정호(wjdgh4058)](https://github.com/wjdgh4058)|[홍자영(HJY0)](https://github.com/HJY0)|[문나래(munnarae)](https://github.com/munnarae)|
+
 ## 페이지별 기능
 ![2023-02-09_10 03 24](https://user-images.githubusercontent.com/92195610/232567121-6f373641-ca72-4930-b9d8-a0f54cd883c8.png)
   
