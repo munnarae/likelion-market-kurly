@@ -49,7 +49,7 @@ npm run all
 <br>
 <br>  
   
-![KakaoTalk_20230209_103923212_01](https://user-images.githubusercontent.com/92195610/232567157-690f5b7c-5b79-4e4d-8420-fd0e10b1dc80.png)
+![KakaoTalk_20230209_103923212_01](https://user-images.githubusercontent.com/92195610/232574399-075abb57-535b-4e00-8efa-71cf4448dac8.png)
   
 #### 제품 리스트 - data.json의 데이터를 불러와서 상품리스트 가져오기 / 카테고리의 아코디언 메뉴 구현 / 제품리스트 필터링 / 페이지네이션 사용
   
