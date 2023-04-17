@@ -69,7 +69,7 @@ npm run all
   
 ![KakaoTalk_20230209_103923212_05](https://user-images.githubusercontent.com/92195610/232567253-a15783d1-e9a9-4e3a-87b3-905d625fc355.png)
   
-#### 로그인 화면 
+#### 로그인 화면 - 해당 유저의 Unique ID를 확인 후 로그인합니다. 어떤 경우든 Unique ID가 유효하지 않다면 사용자에게 알리고 로그인 페이지로 리디렉션
   
   
   
