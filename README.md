@@ -51,10 +51,17 @@ npm run all
   
 ![KakaoTalk_20230209_103923212_01](https://user-images.githubusercontent.com/92195610/232567157-690f5b7c-5b79-4e4d-8420-fd0e10b1dc80.png)
   
-#### 제품리스트 - data.json의 데이터를 불러와서 상품리스트 가져오기 / 카테고리의 아코디언 메뉴 구현 / 제품리스트 필터링 / 페이지네이션 사용
+#### 제품 리스트 - data.json의 데이터를 불러와서 상품리스트 가져오기 / 카테고리의 아코디언 메뉴 구현 / 제품리스트 필터링 / 페이지네이션 사용
   
 <br>
 <br>  
+  
+![11](https://user-images.githubusercontent.com/92195610/232573987-b9ebbf86-4506-45cb-83a7-3c494a2d20d3.png)
+
+#### 제품 상세페이지 - 상품선택에 -, + 버튼을 누르면 수량 증가, 계산 구현 / 수량을 선택하고 장바구니 담기를 누르면 localstorage에 담기게 구현
+  
+<br>
+<br>   
   
 ![KakaoTalk_20230209_103923212_03](https://user-images.githubusercontent.com/92195610/232568812-3827515d-512f-4e9e-9898-0eb98b980826.png)
   
