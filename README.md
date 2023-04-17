@@ -28,9 +28,10 @@ npm run all
 
 ## 페이지별 기능
 ![2023-02-09_10 03 24](https://user-images.githubusercontent.com/92195610/232567121-6f373641-ca72-4930-b9d8-a0f54cd883c8.png)
-광고 팝업창 쿠키를 이용해서 하루동안 닫기 활성화
-상단의 광고바의 x버튼을 클릭하면 닫기 활성화 
-오른쪽 사이드의 최근 본 항목 (localStorage) 구현 
+<div align="left">
+- 광고 팝업창 쿠키를 이용해서 하루동안 닫기 활성화
+- 상단의 광고바의 x버튼을 클릭하면 닫기 활성화 
+- 오른쪽 사이드의 최근 본 항목 (localStorage) 구현 
 ![2023-02-09_10 17 20](https://user-images.githubusercontent.com/92195610/232567134-d5ac9d0e-a92a-4d7c-b5f9-da54ceb0caa2.png)
 첫번째 swiper 를 자동으로 재생, 
 mouseover에 따른 next,prev버튼 활성화 및 자동재생 제어 
