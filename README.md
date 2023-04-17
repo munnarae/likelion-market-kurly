@@ -28,9 +28,19 @@ npm run all
 
 ## 페이지별 기능
 ![2023-02-09_10 03 24](https://user-images.githubusercontent.com/92195610/232567121-6f373641-ca72-4930-b9d8-a0f54cd883c8.png)
+  
 #### 메인화면 - 광고 팝업창 쿠키를 이용해서 하루동안 닫기 활성화 / 오른쪽 사이드의 최근 본 항목 (localStorage) 구현
+
+<br>
+<br>
   
 ![2023-02-09_10 17 20](https://user-images.githubusercontent.com/92195610/232567134-d5ac9d0e-a92a-4d7c-b5f9-da54ceb0caa2.png)
+  
+#### 메인화면 - swiper를 이용하여 슬라이드 자동으로 재생, mouseover에 따른 next,prev버튼 활성화 및 자동재생 제어
+ 
+<br>
+<br>
+  
 ![2023-02-09_10 17 55](https://user-images.githubusercontent.com/92195610/232567152-2cbbd344-b24d-4fae-b295-102347474a37.png)
 ![KakaoTalk_20230209_103923212_01](https://user-images.githubusercontent.com/92195610/232567157-690f5b7c-5b79-4e4d-8420-fd0e10b1dc80.png)
 ![KakaoTalk_20230209_103923212_08](https://user-images.githubusercontent.com/92195610/232567222-5d86ad4d-8ab3-40ee-abe7-cb718fb40c5c.png)
