@@ -32,11 +32,12 @@ npm run all
 
 ![2023-02-09_10 03 24](https://user-images.githubusercontent.com/92195610/232567121-6f373641-ca72-4930-b9d8-a0f54cd883c8.png)
 <br>
+  
 #### 광고 팝업창 쿠키를 이용해서 하루동안 닫기 활성화
-<br>
 #### 상단의 광고바의 x버튼을 클릭하면 닫기 활성화
-<br>
 #### 오른쪽 사이드의 최근 본 항목 (localStorage) 구현
+  
+<br>  
 ![2023-02-09_10 17 20](https://user-images.githubusercontent.com/92195610/232567134-d5ac9d0e-a92a-4d7c-b5f9-da54ceb0caa2.png)
 ![2023-02-09_10 17 55](https://user-images.githubusercontent.com/92195610/232567152-2cbbd344-b24d-4fae-b295-102347474a37.png)
 ![KakaoTalk_20230209_103923212_01](https://user-images.githubusercontent.com/92195610/232567157-690f5b7c-5b79-4e4d-8420-fd0e10b1dc80.png)
