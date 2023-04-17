@@ -1,5 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&height=240&section=header&text=Asparagus&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=3A4A51)
-
+![제목_없음-1](https://user-images.githubusercontent.com/92195610/232568683-4ff85234-792f-429d-b0c8-a78766fdc88f.png)
 
 <div align="center">
 
@@ -11,7 +10,7 @@ npm i
 npm run all
 ```
 
-## 🦁 likelion-React-project
+## 🦁 likelion-javascript-project
 ### _마켓컬리 클론코딩_
 <br>
 
