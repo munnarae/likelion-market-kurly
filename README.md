@@ -62,14 +62,14 @@ npm run all
  
 ![KakaoTalk_20230209_103923212_06](https://user-images.githubusercontent.com/92195610/232567243-8a7ae4d3-9f13-416d-9f0d-af310271b301.png)
   
- #### 회원가입 화면 - 랜덤 한 문자값 (10자 이상) 을 생성 후 사용자의 Unique ID 값으로 관리 / 다음 번에 로그인 시 Unique ID가 존재한다면 루트 경로로 리디렉션
+ #### 회원가입 화면 - 랜덤 한 문자값 (10자 이상) 을 생성 후 사용자의 Unique ID 값으로 관리. <br/> 다음 번에 로그인 시 Unique ID가 존재한다면 루트 경로로 리디렉션
   
 <br>
 <br>   
   
 ![KakaoTalk_20230209_103923212_05](https://user-images.githubusercontent.com/92195610/232567253-a15783d1-e9a9-4e3a-87b3-905d625fc355.png)
   
-#### 로그인 화면 - 해당 유저의 Unique ID를 확인 후 로그인합니다. 어떤 경우든 Unique ID가 유효하지 않다면 사용자에게 알리고 로그인 페이지로 리디렉션
+#### 로그인 화면 - 해당 유저의 Unique ID를 확인 후 로그인. <br/> 어떤 경우든 Unique ID가 유효하지 않다면 사용자에게 알리고 로그인 페이지로 리디렉션
   
   
   
